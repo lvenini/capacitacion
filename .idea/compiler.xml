@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="meli-base" target="1.11" />
+      <module name="meli-base" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
